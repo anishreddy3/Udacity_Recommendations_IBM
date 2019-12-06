@@ -14,6 +14,6 @@ To design and build a recommendation system for the IBM Watson community. It has
 
 3. Content Based Filtering : In this approach the system recommends articles to the user that are similar in content to the ones they have interacted recently
 
-4. SVD or Singular Value Decomposition : In this approach we utilize Matrix Factorize to predict the ranking of articles
+4. SVD or Singular Value Decomposition : In this approach we utilize Matrix Factorization to predict the ranking of articles
 
 
